@@ -1,1 +1,2 @@
 # Task_8
+This project demonstrates unsupervised learning using K-Means clustering with Scikit-learn, Pandas, and Matplotlib where we load and visualize a dataset (optionally reduce dimensions with PCA), fit K-Means and assign cluster labels, determine the optimal number of clusters using the Elbow Method, visualize the resulting clusters with color coding, and evaluate performance using Silhouette Score using a dataset like Mall Customer Segmentation.
